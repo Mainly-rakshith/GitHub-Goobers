@@ -24,4 +24,4 @@ python3 main.py
 ## Git commands
 # Before you paste the code:
 - git branch -r
--- Opens up all branches in the local repo
+  -  Opens up all branches in the local repo
