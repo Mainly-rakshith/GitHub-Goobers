@@ -21,8 +21,8 @@ python3 main.py
 4. Push your branch  
 5. Open a pull request
 
-## Git commands
-# Before you paste the code:
+# Git commands
+## Before you paste the code:
 - git branch -r
   -  Opens up all branches in the local repo
 -  git checkout -b (below)
@@ -31,7 +31,7 @@ python3 main.py
     -  Vicente, I want you to replace the parentheses above with the stuff to the right: Convert/Code
     -  Abdullah, I want you to replace the parentheses above with the stuff to the right: Flashcards/Code
 
-# After running commands above and pasting emailed code:
+## After running commands above and pasting emailed code:
 - git add .
   - Make sure you add the period, this adds all the files changed to the pull request
 - git commit -m "Updated (name of file you worked on)"
