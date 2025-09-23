@@ -19,4 +19,9 @@ python3 main.py
 2. Create a branch per task  
 3. Commit small changes with clear messages  
 4. Push your branch  
-5. Open a pull request  
+5. Open a pull request
+
+## Git commands
+# Before you paste the code:
+- git branch -r
+-- Opens up all branches in the local repo
